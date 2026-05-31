@@ -17,5 +17,6 @@ print("Binary representation of", a, "is:", binary_value)
 
 ## Output
 <img width="482" height="194" alt="image" src="https://github.com/user-attachments/assets/a610d2cd-2b9d-4b15-a85d-311bae3b5234" />
+ 
 ## Result
 The program successfully converts the number 16 into its binary representation using the built-in bin() function in Python.
